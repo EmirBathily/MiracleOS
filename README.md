@@ -6,14 +6,14 @@ Miracle shell es la interfaz principal de miracle OS.
 Esta aplicación viene preinstalada en Miracle os pero puedes buscar información en internet sobre como compilar
 e instalar shell de GNOME solo que en ves de clonnar desdeel gitlab de gnome clonar desde el github de miracle, Esta pagina
 
-####Licencia
+#### Licencia
 Miracle shell esta protegido por GNU general public license (Licencia public general GNU)
 
-####Que es GNU general public license?
+#### Que es GNU general public license?
 GNU general public license es una licencia que te permite a vos como usuario copiar, ejecutar y usar el codigo a tu gusto.
 
-####Que permite Miracle y Emba Con Su codigo?
-####Estas "empresas" (No registradas) permiten su uso para lo siguiente:
+#### Que permite Miracle y Emba Con Su codigo?
+#### Estas "empresas" (No registradas) permiten su uso para lo siguiente:
 
 *Usar el codigo para ver cuales son tus capacidades como programador/a o testear el funcionamiente en su equipo
 
@@ -21,7 +21,7 @@ GNU general public license es una licencia que te permite a vos como usuario cop
 
 *Usar el codigo para mostrarlo en cualquier lugar de internet, dando creditos a emir bathily y a Emba
 
-####Y las mismas "empresas" recien mencionadas no permiten el uso de codigo para lo siguiente:
+#### Y las mismas "empresas" recien mencionadas no permiten el uso de codigo para lo siguiente:
 
 *Hacer pasar por propio el codigo(Sin dar creditos o mencionando en letra muy chica a los creadores)
 
