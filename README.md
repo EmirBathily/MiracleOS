@@ -27,4 +27,4 @@ GNU general public license es una licencia que te permite a vos como usuario cop
 
 *Usar el codigo en hardware(Computadoras, telefonos o tablets), Venderlo y no dar creditos al encender el dispositivo o en el paquete en el que viene (si lleva alguno), (Excepciòn de que el creador, emir bathily lo permita)
 
-#### Miracle y emba son marcas sin registrar pero se va a hacer lo posible dentro del margen de lo legal para que el usuario no tenga acceso al codigo o al menos que no pueda compilarlo ademas el codigo esta protegido por la licencia anteriormente menciona asi que cualquier inconveniente sera solucionada mediante lo que la licencia permita o no
+#### Miracle y emba son marcas sin registrar pero se va a hacer lo posible dentro del margen de lo legal para que el usuario que infringa lo que miracle OS y Emba admite no tenga acceso al codigo o al menos que no pueda compilarlo ademas el codigo esta protegido por la licencia anteriormente menciona asi que cualquier inconveniente sera solucionada mediante lo que la licencia permita o no
