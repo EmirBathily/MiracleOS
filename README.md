@@ -12,7 +12,7 @@ Miracle shell esta protegido por GNU general public license (Licencia public gen
 #### Que es GNU general public license?
 GNU general public license es una licencia que te permite a vos como usuario copiar, ejecutar y usar el codigo a tu gusto.
 
-#### Que permite Miracle y Emba Con Su codigo?
+#### Que permite Miracle, Emba y emir bathily Con Su codigo?
 #### Estas "empresas" (No registradas) permiten su uso para lo siguiente:
 
 *Usar el codigo para ver cuales son tus capacidades como programador/a o testear el funcionamiente en su equipo
@@ -21,7 +21,7 @@ GNU general public license es una licencia que te permite a vos como usuario cop
 
 *Usar el codigo para mostrarlo en cualquier lugar de internet, dando creditos a emir bathily y a Emba
 
-#### Y las mismas "empresas" recien mencionadas no permiten el uso de codigo para lo siguiente:
+#### Y las mismas "empresas" y personas recien mencionadas no permiten el uso de codigo para lo siguiente:
 
 *Hacer pasar por propio el codigo(Sin dar creditos o mencionando en letra muy chica a los creadores)
 
