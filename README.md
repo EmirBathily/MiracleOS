@@ -14,6 +14,6 @@
 ## Environment Setup
 
 
-⚠️ **Known Issues**
+## ⚠️ Known Issues
 
 ### Getting Started
