@@ -8,4 +8,4 @@
 
 ## ⚠️ Known Issues
 
-### Getting Started
+## Getting Started
